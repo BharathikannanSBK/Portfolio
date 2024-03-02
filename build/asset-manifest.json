@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cffeec0a.css",
+    "main.js": "/static/js/main.753571a5.js",
+    "static/media/ToDo.png": "/static/media/ToDo.c1658a4977affe992455.png",
+    "static/media/Portfolio.png": "/static/media/Portfolio.e7f0583508e2b00b3700.png",
+    "static/media/Vash.png": "/static/media/Vash.c7080a8c25c188fc1be3.png",
+    "static/media/hero.png": "/static/media/hero.f495653243ef7276c070.png",
+    "static/media/2d.png": "/static/media/2d.2eca58519b667df4eb3f.png",
+    "static/media/acheivemets.png": "/static/media/acheivemets.b9dadca81001346e0e7b.png",
+    "static/media/Bharathikannan.pdf": "/static/media/Bharathikannan.c4bd7d86425371594f10.pdf",
+    "static/media/Resume.png": "/static/media/Resume.41fc21f177f39586bfeb.png",
+    "static/media/react.png": "/static/media/react.eea33e4adff450f03bb4.png",
+    "static/media/N5.png": "/static/media/N5.0415fe6d126549a88b6d.png",
+    "static/media/java.png": "/static/media/java.462175bcc9131133f787.png",
+    "index.html": "/index.html",
+    "main.cffeec0a.css.map": "/static/css/main.cffeec0a.css.map",
+    "main.753571a5.js.map": "/static/js/main.753571a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cffeec0a.css",
+    "static/js/main.753571a5.js"
+  ]
+}
